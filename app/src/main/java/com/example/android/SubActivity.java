@@ -8,7 +8,7 @@ import android.widget.TextView;
 
 public class SubActivity extends AppCompatActivity {
 
-    TextView tv_sub
+    TextView tv_sub;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
