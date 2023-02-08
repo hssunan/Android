@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="test">
+        <item>메뉴1</item>
+        <item>메뉴2</item>
+        <item>메뉴3</item>
+    </array>
+
+</resources>
